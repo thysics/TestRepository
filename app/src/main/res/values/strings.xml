@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Gluten Free Finder</string>
-    <string name="search_hint">Search for gluten-free restaurants</string>
-    <string name="location_permission_required">Location permission is required to find nearby restaurants</string>
-    <string name="grant_permission">Grant Permission</string>
-    <string name="searching">Searching for gluten-free restaurants…</string>
-    <string name="no_results">No gluten-free restaurants found nearby</string>
-    <string name="error_occurred">An error occurred. Please try again.</string>
-    <string name="restaurant_details">Restaurant Details</string>
-    <string name="gluten_free_certified">Gluten-Free Certified</string>
-    <string name="celiac_friendly">Celiac Friendly</string>
 </resources>
